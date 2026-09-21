@@ -26,7 +26,7 @@
 
    The circuit is connected with potentiometer,thus the potentiometer functions as a voltage-divider/rheostat in its usage to control the parameters such as speed,brightness or voltage level.![][image1]   
    
-![][image2]
+![][image2](poten.jpeg)
 
          
 
