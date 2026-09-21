@@ -1,4 +1,4 @@
-
+                               A CIRCUIT WITH POTENTIOMETER
 
     **Aim:**
 
